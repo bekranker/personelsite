@@ -41,7 +41,7 @@ export default function Home() {
             href="https://unkey.dev"
             className="underline duration-500 hover:text-zinc-300"
           >
-            unkey.dev
+            as
           </Link> I am designing algorithms to create game mechanichs
         </h2>
       </div>
